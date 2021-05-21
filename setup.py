@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Roger Hurwitz',
     author_email='rogerhurwitz@gmail.com',
-    url='https://github.com/SpikeInterface/spikely',
+    url='https://github.com/KnierimLab/spikely',
     packages=find_packages(exclude=('tests', 'docs')),
     include_package_data=True,
     install_requires=[
